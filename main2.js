@@ -1,0 +1,7 @@
+document.getElementById("change1").innerHTML =  prompt("يوسف كساب :")
+document.getElementById("change2").innerHTML =  prompt("احمد العشري :")
+document.getElementById("change3").innerHTML =  prompt("حبيبة محمد :")
+document.getElementById("change4").innerHTML =  prompt("عمر اشرف:")
+document.getElementById("change5").innerHTML =  prompt("محمود زهران :")
+document.getElementById("change6").innerHTML =  prompt("محمد يحيي :")
+document.getElementById("change7").innerHTML =  prompt("محمد عماد :")
